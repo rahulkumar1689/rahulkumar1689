@@ -35,30 +35,28 @@ Hi 👋, I'm Rahul Kumar Mohanty
 # 👨‍💻 About Me
 
 ```javascript
-const Rahul = {
+const rahul = {
     name: "Rahul Kumar Mohanty",
-    education: "B.Tech in Computer Science & Engineering",
-    college: "Nalanda Institute of Technology",
-    location: "Odisha, India 🇮🇳",
+    location: "📍 Odisha, India 🇮🇳",
+    role: "💻 Computer Science Student | Aspiring Full-Stack Developer",
 
-    currentlyLearning: [
-        "React.js",
-        "JavaScript",
-        "Python",
-        "Git & GitHub",
-        "Web Development"
+    currentFocus: [
+        "⚛️ React.js",
+        "🟨 JavaScript",
+        "🐍 Python",
+        "🔧 Git & GitHub"
     ],
 
-    interests: [
-        "Frontend Development",
-        "Python Programming",
-        "Open Source",
-        "Problem Solving"
-    ],
+    passion: "🚀 Building clean, responsive, and user-friendly web applications while continuously improving my development skills.",
 
-    email: "rm3394691@gmail.com",
-    motto: "Code • Learn • Build • Repeat 🚀"
-}
+    mission: "🎯 Become a skilled Full-Stack Developer, contribute to impactful projects, and build innovative solutions that solve real-world problems.",
+
+    mindset: "🌱 Believing that consistent learning, practice, and curiosity are the keys to becoming a great developer.",
+
+    superpower: "⚡ Turning ideas into functional, elegant, and efficient code.",
+
+    quote: "💡 Every expert was once a beginner. Keep learning, keep building."
+};
 ```
 
 ---
