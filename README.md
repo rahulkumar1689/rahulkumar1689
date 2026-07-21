@@ -134,17 +134,14 @@ const Rahul = {
 
 ---
 
-# 🌱 Currently Learning
+# ☕ Random Dev Quote
 
-✅ React.js
+<div align="center">
 
-✅ JavaScript ES6+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-✅ Python
+</div>
 
-✅ Git & GitHub
-
-✅ Responsive Web Design
 
 ---
 
@@ -171,12 +168,34 @@ const Rahul = {
 
 ---
 
-<p align="center">
+# 👀 Visitor Count
 
-<img src="https://komarev.com/ghpvc/?username=rahulkumar1689&label=Profile+Views&color=0e75b6&style=flat"/>
+<div align="center">
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=rahulkumar1689&style=for-the-badge&color=blue"/>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+</div>
+
+---
+
+# ❤️ Support
+
+<div align="center">
+
+⭐ If you like my projects, don't forget to Star them!
+
+🚀 Let's build something amazing together!
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="450" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,50:7F00FF,100:FC466B"/>
+
+</div>
