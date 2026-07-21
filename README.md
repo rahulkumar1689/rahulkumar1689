@@ -128,7 +128,7 @@ const Rahul = {
 # ⚡ Coding Animation
 
 <div align="center">
-<img width="850" src="https://user-images.githubusercontent.com/74038190/216656974-9d7d5fd3-57c2-48f3-8c71-0b3e89f9878d.gif"/>
+<img width="850" src="https://user-images.githubusercontent.com/74038190/213760697-6f4d5a2d-c4d6-4d45-ae74-8d9faec7f7d8.gif"/>
 </div>
 
 ---
