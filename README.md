@@ -105,15 +105,6 @@ const Rahul = {
 
 ---
 
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar1689&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
 # 🐍 Contribution Snake
 
 <div align="center">
