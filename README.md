@@ -36,13 +36,9 @@ Hi 👋, I'm Rahul Kumar Mohanty
 
 ```javascript
 const Rahul = {
-
     name: "Rahul Kumar Mohanty",
-
     education: "B.Tech in Computer Science & Engineering",
-
     college: "Nalanda Institute of Technology",
-
     location: "Odisha, India 🇮🇳",
 
     currentlyLearning: [
@@ -61,7 +57,6 @@ const Rahul = {
     ],
 
     email: "rm3394691@gmail.com",
-
     motto: "Code • Learn • Build • Repeat 🚀"
 }
 ```
