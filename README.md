@@ -1,76 +1,123 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar Mohanty</h1>
+<h1 align="center">👋 Hi, I'm Rahul Kumar Mohanty</h1>
 
-<h3 align="center">B.Tech Computer Science & Engineering Student | Web Developer | Python Programmer</h3>
+<h3 align="center">🚀 B.Tech CSE Student | Web Developer | Python Programmer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;Python+Programmer;Computer+Science+Student;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Web+Developer;Python+Programmer;Learning+Data+Science;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 About Me
 
-🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
-
-🌱 Currently learning **Full Stack Web Development & Python**
-
-💻 Interested in **Web Development, Python Programming and Open Source**
-
-🚀 Goal: Become a Full Stack Developer & Software Engineer
-
-📫 Email: **rm3394691@gmail.com**
-
-🔗 LinkedIn:
-www.linkedin.com/in/rahul-kumar-mohanty-5ba3132ba
+```javascript
+const rahul = {
+    location: "Odisha, India 🇮🇳",
+    education: "B.Tech in Computer Science & Engineering",
+    college: "Nalanda Institute of Technology",
+    interests: [
+        "Web Development",
+        "Python",
+        "Data Science",
+        "Machine Learning"
+    ],
+    currentlyLearning: [
+        "React.js",
+        "JavaScript",
+        "Python",
+        "Git & GitHub"
+    ],
+    hobbies: [
+        "Coding",
+        "Learning New Technologies",
+        "Problem Solving"
+    ],
+    motto: "Code • Learn • Build • Repeat 🚀"
+}
+```
 
 ---
 
-## 🌐 Connect with Me
+# 💻 Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/rahul-kumar-mohanty-5ba3132ba" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="mailto:rm3394691@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-</p>
-
----
-
-## 💻 Languages & Tools
+### 🌐 Frontend
 
 <p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,c,cpp,java,git,github,vscode,mysql" />
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,nodejs,express"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=rahulkumar1689&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar1689&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar1689&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=rahulkumar1689&theme=tokyonight&row=1&column=7)
+
+---
+
+## 📈 Activity Graph
+
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkumar1689&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:rm3394691@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rahul-kumar-mohanty-5ba3132ba">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rahulkumar1689">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Profile Views
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=rahulkumar1689&style=for-the-badge&color=blue)
 
 ---
 
-## 🏆 GitHub Trophies
+<p align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10)
+### ⭐ Thanks for visiting my profile!
 
----
+💙 If you like my projects, don't forget to star them.
 
-## 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-
----
-
-## ✨ Quote
-
-> "Code. Learn. Build. Repeat."
+</p>
