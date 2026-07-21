@@ -123,13 +123,14 @@ const Rahul = {
 
 ---
 
-# 📊 Contribution Graph
+# 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumar1689&theme=react-dark&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
+
 
 ---
 
@@ -147,43 +148,26 @@ const Rahul = {
 
 ---
 
-# 🎯 Goals 2026
 
-🚀 Build Full Stack Projects
 
-🌍 Contribute to Open Source
+# 🤝 Connect With Me
 
-💼 Get Software Developer Internship
-
-📚 Master React.js
-
-🐍 Become an Advanced Python Developer
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="mailto:rm3394691@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail">
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rahul-kumar-mohanty-5ba3132ba">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/rahulkumar1689">
-
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
+
 
 ---
 
