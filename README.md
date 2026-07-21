@@ -105,6 +105,16 @@ const Rahul = {
 
 ---
 
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumar1689&theme=tokyo-night"/>
+
+</div>
+
+---
+
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -126,6 +136,10 @@ const Rahul = {
 
 
 ---
+
+# 🌟 Fun Fact
+
+	⁠💡 "The best way to predict the future is to create it."
 
 
 
