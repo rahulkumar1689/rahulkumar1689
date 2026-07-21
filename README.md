@@ -68,45 +68,28 @@ const Rahul = {
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
 
-</p>
+### Frameworks & Libraries
 
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap"/>
 
-### 🌐 Frontend
+### Database
 
-<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind"/>
+### Tools
 
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
----
+</div>
 
-### ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-
-</p>
-
----
-
-### 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman"/>
-
-</p>
 
 ---
 
