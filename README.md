@@ -113,15 +113,6 @@ const Rahul = {
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulkumar1689&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
