@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=260&section=header&text=Rahul%20Kumar%20Mohanty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:7F00FF,100:FC466B&text=Rahul%20Kumar%20Mohanty&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Web+Developer;Python+Developer;Machine+Learning+Enthusiast;Data+Science+Learner;Open+Source+Contributor;Always+Learning+New+Things🚀"/>
+<h1>👋 Hi There, I'm Rahul Kumar Mohanty</h1>
+
+<h3>💻 Computer Science Engineer | 🌐 Web Developer | 🐍 Python Programmer | 🤖 ML Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F7FF&lines=Full+Stack+Developer;Python+Developer;Machine+Learning+Enthusiast;Data+Science+Learner;Open+Source+Contributor;Always+Learning+New+Technologies🚀" />
 
 <p>
+
 <a href="mailto:rm3394691@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -19,77 +24,100 @@
 
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=rahulkumar1689&style=for-the-badge&color=0e75b6"/>
+
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```javascript
 const Rahul = {
 
-    name: "Rahul Kumar Mohanty",
+  name: "Rahul Kumar Mohanty",
 
-    education: "B.Tech in Computer Science & Engineering",
+  education: "B.Tech Computer Science & Engineering",
 
-    college: "Nalanda Institute of Technology",
+  college: "Nalanda Institute of Technology",
 
-    location: "Odisha, India 🇮🇳",
+  location: "Odisha, India 🇮🇳",
 
-    email: "rm3394691@gmail.com",
+  email: "rm3394691@gmail.com",
 
-    interests: [
-        "Web Development",
-        "Python Programming",
-        "Machine Learning",
-        "Data Science"
-    ],
+  role: "Full Stack Developer",
 
-    skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Python",
-        "MySQL",
-        "Git",
-        "GitHub"
-    ],
+  skills: [
 
-    currentlyLearning: [
-        "React.js",
-        "Node.js",
-        "Machine Learning",
-        "Data Science"
-    ],
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Python",
+      "MySQL",
+      "MongoDB",
+      "Git",
+      "GitHub"
 
-    motto: "Code • Learn • Build • Repeat 🚀"
+  ],
+
+  learning: [
+
+      "Machine Learning",
+      "Data Science",
+      "Next.js",
+      "Node.js"
+
+  ],
+
+  hobbies: [
+
+      "Coding",
+      "Problem Solving",
+      "Learning New Technologies",
+      "Open Source"
+
+  ],
+
+  motto: "Code • Learn • Build • Repeat 🚀"
+
 }
 ```
 
-<br>
+---
+
+# 🚀 Current Focus
+
+- 🌐 Building Responsive Websites
+- ⚛ Learning React & Next.js
+- 🐍 Python Development
+- 🤖 Machine Learning
+- 📊 Data Science
+- 💻 Open Source Contributions
+- 📚 Data Structures & Algorithms
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python"/>
 
-### ⚡ Frameworks
+### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap"/>
 
-### 🗄️ Database
+### Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-### 🛠️ Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
@@ -97,21 +125,41 @@ const Rahul = {
 
 ---
 
-# 📊 GitHub Statistics
+# ⚡ Coding Animation
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulkumar1689&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar1689&theme=tokyonight&hide_border=true"/>
+<img width="850" src="https://user-images.githubusercontent.com/74038190/216656974-9d7d5fd3-57c2-48f3-8c71-0b3e89f9878d.gif"/>
 
 </div>
 
-<br>
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar1689&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahulkumar1689&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar1689&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar1689&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumar1689&theme=tokyo-night"/>
 
 </div>
 
@@ -121,17 +169,7 @@ const Rahul = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahulkumar1689&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumar1689&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rahulkumar1689&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -147,26 +185,55 @@ const Rahul = {
 
 ---
 
-# ⚡ Coding Animation
+# 📌 Featured Skills
 
 <div align="center">
 
-<img width="750" src="https://user-images.githubusercontent.com/74038190/216656974-9d7d5fd3-57c2-48f3-8c71-0b3e89f9878d.gif"/>
+| 🌐 Frontend | ⚙ Backend | 🗄 Database | 🛠 Tools |
+|------------|-----------|------------|----------|
+| HTML | Node.js | MySQL | Git |
+| CSS | Python | MongoDB | GitHub |
+| JavaScript | Express.js | Firebase | VS Code |
+| React | REST APIs | SQLite | Postman |
 
 </div>
 
 ---
 
-# 🌎 Connect With Me
+# 📚 Currently Learning
+
+```text
+✅ React.js
+
+✅ Next.js
+
+✅ Machine Learning
+
+✅ Data Science
+
+✅ Node.js
+
+✅ MongoDB
+```
+
+---
+
+# 🌟 Fun Fact
+
+> 💡 *"The best way to predict the future is to create it."*
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="mailto:rm3394691@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rahul-kumar-mohanty-5ba3132ba">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/rahulkumar1689">
@@ -177,7 +244,7 @@ const Rahul = {
 
 ---
 
-# ☕ Random Developer Quote
+# ☕ Random Dev Quote
 
 <div align="center">
 
@@ -187,11 +254,23 @@ const Rahul = {
 
 ---
 
-# 👀 Profile Views
+# 👀 Visitor Count
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rahulkumar1689&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=rahulkumar1689&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# ❤️ Support
+
+<div align="center">
+
+⭐ If you like my projects, don't forget to Star them!
+
+🚀 Let's build something amazing together!
 
 </div>
 
@@ -199,12 +278,10 @@ const Rahul = {
 
 <div align="center">
 
-## 💙 Thanks for Visiting My Profile!
-
 <img width="450" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,50:7F00FF,100:FC466B"/>
 
 </div>
