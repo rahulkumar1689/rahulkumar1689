@@ -3,7 +3,7 @@ Hi 👋, I'm Rahul Kumar Mohanty
 </h1>
 
 <h3 align="center">
-💻 Computer Science Engineer | Web Developer | Python Programmer
+💻 Computer Science Engineer | ☕ Java Developer | Full-Stack Developer 
 </h3>
 
 <p align="center">
