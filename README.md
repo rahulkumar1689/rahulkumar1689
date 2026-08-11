@@ -8,7 +8,7 @@ Hi 👋, I'm Rahul Kumar Mohanty
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Python+Programmer;Frontend+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Java+Developer;Frontend+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 
 </p>
 
