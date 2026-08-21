@@ -92,8 +92,7 @@ const rahul = {
 
 <div align="center">
 
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar1689&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=rahulkumar1689&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
