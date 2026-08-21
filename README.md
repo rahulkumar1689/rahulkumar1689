@@ -91,9 +91,10 @@ const rahul = {
 # 📊 GitHub Analytics
 
 <div align="center">
-
-  <img height="180" src="https://streak-stats.demolab.com/?user=rahulkumar1689&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img
+    src="https://streak-stats.demolab.com/?user=rahulkumar1689&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 
