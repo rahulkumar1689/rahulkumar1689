@@ -69,11 +69,11 @@ const rahul = {
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java"/>
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,springboot,rest apis"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,spring"/>
 
 ### Database
 
