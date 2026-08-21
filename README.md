@@ -43,7 +43,9 @@ const rahul = {
     currentFocus: [
         "⚛️ React.js",
         "🟨 JavaScript",
-        "🐍 Python",
+        "☕ Java",
+        "🌱 Spring Boot",
+        "🗄️ MySQL",,
         "🔧 Git & GitHub"
     ],
 
